@@ -1,4 +1,6 @@
 # ensayar-PULL con repositorio NUEVO y ya TRABAJADO 
+otro espacio para vivir
+
 otro ensayo para ese comando
 
 bajar informacion
